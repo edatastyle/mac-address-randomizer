@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Install dependencies
-sudo apt-get update
 sudo apt-get install -y python3 iproute2
 
 # Copy the Python script and wrapper to the appropriate locations
