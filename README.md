@@ -27,13 +27,17 @@ git clone https://github.com/edatastyle/mac-address-randomizer.git
 ```
 cd mac-address-randomizer
 ```
-
 **3. Run the installation script with:**
+```
+sudo chmod +x installer.sh
+```
+
+**4. Run the installation script with:**
 ```
 sudo ./installer.sh
 ```
 
-**3. After the installation, you should be able to run the MAC address changer using:**
+**5. After the installation, you should be able to run the MAC address changer using:**
 ```
 change_mac -i wlan0
 ```
