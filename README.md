@@ -20,17 +20,17 @@ MAC Address Randomizer is a lightweight Python script for Linux users, allowing 
 ## Installation
 **1. Clone this repo:**
 ```
-git clone https://github.com/the-weird-aquarian/universal-macchanger.git
+git clone https://github.com/edatastyle/mac-address-randomizer.git
 ```
 
 **2. Move into the project directory:**
 ```
-cd universal-macchanger
+cd mac-address-randomizer
 ```
 
 **3. Run the installation script with:**
 ```
-sudo ./install_mac_changer.sh
+sudo ./installer.sh
 ```
 
 **3. After the installation, you should be able to run the MAC address changer using:**
@@ -45,4 +45,4 @@ change_mac -i wlan0
 ```
 
 ## Contributing
-Pull requests can be submitted [here](https://github.com/the-weird-aquarian/universal-macchanger/pulls). Any contribution to the project will be highly appreciated.
+Pull requests can be submitted [here](https://github.com/edatastyle/mac-address-randomizer/pulls). Any contribution to the project will be highly appreciated.
